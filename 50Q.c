@@ -106,7 +106,7 @@ int myqDig(unsigned int n) {
     return x;
 }
 
-//7 Ver com o Mario
+//7 *
 char *mystrcat(char s1[], char s2[]){
     int i,j;
     for(i=0; s1[i] != '\0'; i++);
@@ -508,7 +508,7 @@ int minInd (int v[], int n) {
     return minIndex;
 }
 
-//38 Ver com o Mario, A da sofia é que esta escrita e da certo
+//38 *Da
 void somasAc (int v[], int Ac [], int N) {
     int i,j;
     for(i = 0; i < N; i++) {
